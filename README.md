@@ -20,5 +20,5 @@ A 2D mini-game where players control a snowboarder navigating wavy snow terrain 
 - Object-Oriented Programming
 
 ## How to Run:
-Open the project in the game engine
-Run the main scene to start the game
+- Open the project in the game engine
+- Run the main scene to start the game
